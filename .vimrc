@@ -1,0 +1,1 @@
+/home/hecgph/.vimrc
