@@ -1,1 +1,5 @@
-/home/hecgph/.gitconfig
+[user]
+	name = Hector Galindo
+	email = hecgph@gmail.com
+[init]
+	defaultBranch = main
