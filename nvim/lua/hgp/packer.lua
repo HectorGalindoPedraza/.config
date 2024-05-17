@@ -26,7 +26,7 @@ use({
 
 use('theprimeagen/harpoon')
 
-use 'nvim-tree/nvim-web-devicons'
+use('nvim-tree/nvim-web-devicons')
 
 use('mbbill/undotree')
 
@@ -46,4 +46,7 @@ use {
     {'L3MON4D3/LuaSnip'},
   }
 }
+
+use('brenoprata10/nvim-highlight-colors')
+
 end)
