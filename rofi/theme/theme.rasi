@@ -47,7 +47,7 @@
     highlight:     underline bold #ffffff;
 
     transparent: rgba(0,0,0,0);
-    font: "Source Code Pro 10";
+    font: "Monaspace Argon 15";
 }
 window {
     location: center;
@@ -80,11 +80,11 @@ message {
 inputbar {
     color: @lightgreen;
     padding: 11px;
-    background-color: @tlightblack;
+    background-color: @dark;
     border: 2px 2px 2px 2px;
     border-radius:  15px 15px 0px 0px;
     border-color: @foreground;
-    font: "Source Code Pro 18";
+    font: "Source Code Pro 20";
 }
 entry,prompt,case-indicator {
     text-font: inherit;
@@ -98,7 +98,7 @@ listview {
     border-radius: 0px 0px 15px 15px;
     border-color: @foreground;
     border: 0px 2px 2px 2px;
-    background-color: #1c1c1ccc;
+    background-color: @dark;
     dynamic: false;
     lines: 10;
 }
